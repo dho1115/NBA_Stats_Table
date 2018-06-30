@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\NBA_Stats_Sheet\NBA_Stats_Sheet\obj\Debug\netcoreapp2.0\NBA_Stats_Sheet.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\NBA_Stats_Sheet\NBA_Stats_Sheet\obj\Debug\netcoreapp2.0\NBA_Stats_Sheet.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\NBA_Stats_Sheet\NBA_Stats_Sheet\obj\Debug\netcoreapp2.0\NBA_Stats_Sheet.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\NBA_Stats_Sheet\NBA_Stats_Sheet\obj\Debug\netcoreapp2.0\NBA_Stats_Sheet.AssemblyInfo.cs
+C:\Users\Owner\source\repos\NBA_Stats_Sheet\NBA_Stats_Sheet\bin\Debug\netcoreapp2.0\NBA_Stats_Sheet.deps.json
+C:\Users\Owner\source\repos\NBA_Stats_Sheet\NBA_Stats_Sheet\bin\Debug\netcoreapp2.0\NBA_Stats_Sheet.runtimeconfig.json
+C:\Users\Owner\source\repos\NBA_Stats_Sheet\NBA_Stats_Sheet\bin\Debug\netcoreapp2.0\NBA_Stats_Sheet.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\NBA_Stats_Sheet\NBA_Stats_Sheet\bin\Debug\netcoreapp2.0\NBA_Stats_Sheet.dll
+C:\Users\Owner\source\repos\NBA_Stats_Sheet\NBA_Stats_Sheet\bin\Debug\netcoreapp2.0\NBA_Stats_Sheet.pdb
+C:\Users\Owner\source\repos\NBA_Stats_Sheet\NBA_Stats_Sheet\obj\Debug\netcoreapp2.0\NBA_Stats_Sheet.dll
+C:\Users\Owner\source\repos\NBA_Stats_Sheet\NBA_Stats_Sheet\obj\Debug\netcoreapp2.0\NBA_Stats_Sheet.pdb
